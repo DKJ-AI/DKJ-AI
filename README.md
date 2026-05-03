@@ -6,8 +6,8 @@
 </div>
 <p>
   <a href="https://www.linkedin.com/in/dipakjena/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="https://x.com/rahuloraj"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
-  <a href="https://www.instagram.com/rahuloraj/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
+  <a href="https://x.com/dipakjena56"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
+  <a href="https://www.instagram.com/_dipakjena_/"><img src="https://skillicons.dev/icons?i=instagram" height="32"/></a>
   <a href="https://rahuloraj.netlify.app/" target="_blank"></a>
 </p>
  
